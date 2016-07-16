@@ -14,10 +14,14 @@
 
 ![](art/stick.gif)
 
+
 2.这个是normal的效果，和正常的效果一样
 
-![](art/stick.gif)
+
+![](art/normal.gif)
+
 
 3.这个是parallax的效果，可以看到头部和listView有并行折叠效果
 
-![](art/stick.gif)
+
+![](art/parallax.gif)
